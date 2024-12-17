@@ -1,0 +1,8 @@
+[theme]
+primaryColor = "#22c55e"    # Green (Matches Analyze Button)
+backgroundColor = "#c9ebce" # Light green (Background color of the page)
+secondaryBackgroundColor = "#ffffff" # White (Card backgrounds)
+textColor = "#333333"       # Dark gray (For text clarity)
+font = "sans serif"
+
+
